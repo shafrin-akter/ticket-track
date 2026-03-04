@@ -1,6 +1,6 @@
 import bg2 from "../../../assets/bg2.png";
 
-const BannerRight = () => {
+const BannerRight = ({ count }) => {
   return (
     <div className="flex-1">
       <div
@@ -8,7 +8,7 @@ const BannerRight = () => {
         style={{ backgroundImage: `url(${bg2})` }}
       >
         <p className="text-white text-lg font-medium">Resolved</p>
-        <h1 className="text-white text-6xl font-bold mt-2">0</h1>
+        <h1 className="text-white text-6xl font-bold mt-2">{count}</h1>
       </div>
     </div>
   );
