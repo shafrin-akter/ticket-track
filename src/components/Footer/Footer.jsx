@@ -35,7 +35,7 @@ const Footer = () => {
           <a className="link link-hover">Join Us</a>
         </nav>
         <nav>
-          <h6 className="text-xl text-white">Legal</h6>
+          <h6 className="text-xl text-white">Social Links</h6>
           <div className="flex items-center gap-2">
             <img src={twiter} />
             <a className="link link-hover">@CS — Ticket System</a>
