@@ -28,7 +28,7 @@ Child → parent-এ update পাঠাবে (function দিয়ে)
 
 React-এ event handling করা হয়:
 
-✔ JSX-এর মাধ্যমে
-✔ JavaScript function ব্যবহার করে
-✔ CamelCase event name দিয়ে
+JSX-এর মাধ্যমে
+JavaScript function ব্যবহার করে
+CamelCase event name দিয়ে
 
