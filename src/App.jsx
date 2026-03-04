@@ -19,7 +19,7 @@ function App() {
   const [inProgressTickets, setInProgressTickets] = useState([]);
   const [resolvedTickets, setResolvedTickets] = useState([]);
 
-  
+
   const handleAddToProgress = (ticket) => {
     const alreadyExists = inProgressTickets.find((t) => t.id === ticket.id);
     if (alreadyExists) {
@@ -30,7 +30,7 @@ function App() {
     toast.success(`"${ticket.title}" added to Task Status!`);
   };
 
-  // Click Complete → remove from Task Status, add to Resolved
+  
   const handleComplete = (ticket) => {
     setInProgressTickets(inProgressTickets.filter((t) => t.id !== ticket.id));
     setResolvedTickets([...resolvedTickets, ticket]);
