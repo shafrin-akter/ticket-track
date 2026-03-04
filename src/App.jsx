@@ -19,7 +19,7 @@ function App() {
   const [inProgressTickets, setInProgressTickets] = useState([]);
   const [resolvedTickets, setResolvedTickets] = useState([]);
 
-  // Click card → add to Task Status (In Progress)
+  
   const handleAddToProgress = (ticket) => {
     const alreadyExists = inProgressTickets.find((t) => t.id === ticket.id);
     if (alreadyExists) {
