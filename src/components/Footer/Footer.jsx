@@ -5,7 +5,7 @@ import email from "../../assets/socail-icon/fi_6244710.png";
 const Footer = () => {
   return (
     <div className=" bg-black text-base-content md:p-10 p-3 ">
-      <footer className="md:w-[1300px] pb-5 text-[#A1A1AA] footer sm:footer-horizontal mx-auto border-b-2 border-[#A1A1AA]  ">
+      <footer className="pb-5 text-[#A1A1AA] footer sm:footer-horizontal mx-auto border-b-1 border-[#A1A1AA]  ">
         <aside>
           <h2 className="text-2xl text-white font-semibold">
             CS — Ticket System

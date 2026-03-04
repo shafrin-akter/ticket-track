@@ -1,7 +1,7 @@
 const Navbar = () => {
   return (
     <div className="navbar bg-base-100 shadow-sm">
-      <div className="max-w-[1300px] mx-auto w-full flex items-center">
+      <div className=" mx-auto w-full flex  md:px-10 items-center">
         {/* Left - Logo */}
         <div className="flex-1 lg:w-1/2 lg:flex-none">
           <a className="text-base sm:text-xl lg:text-2xl font-bold whitespace-nowrap">
