@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Login Issue",
+    "description": "Customer unable to login with valid credentials.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Payment Failed",
+    "description": "Payment not going through for premium plan.",
+    "customer": "Alice Smith",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2026-03-01T11:15:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Feature Request: Dark Mode",
+    "description": "Customer requested dark mode for the dashboard.",
+    "customer": "Bob Johnson",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-03-01T12:30:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Bug: Profile Picture Not Uploading",
+    "description": "Uploading profile picture fails with error 500.",
+    "customer": "Emma Williams",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-01T13:45:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Account Deletion Request",
+    "description": "Customer wants to delete their account permanently.",
+    "customer": "Michael Brown",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2026-03-01T14:00:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Unable to Reset Password",
+    "description": "Password reset link not working for some users.",
+    "customer": "Sophia Davis",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-01T14:30:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Error 404 on Dashboard",
+    "description": "Some users see 404 error after login.",
+    "customer": "Liam Miller",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2026-03-01T15:00:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Report Export Not Working",
+    "description": "Exporting reports to CSV gives empty file.",
+    "customer": "Olivia Wilson",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-01T15:30:00Z"
+  },
+  {
+    "id": 9,
+    "title": "UI Issue: Overlapping Buttons",
+    "description": "Buttons on settings page overlap on small screens.",
+    "customer": "Noah Moore",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-03-01T16:00:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Subscription Renewal Problem",
+    "description": "Automatic subscription renewal failed for customer.",
+    "customer": "Ava Taylor",
+    "priority": "High",
+    "status": "Resolved",
+    "createdAt": "2026-03-01T16:30:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Notification Email Not Received",
+    "description": "Customer did not receive password reset email.",
+    "customer": "William Anderson",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2026-03-01T17:00:00Z"
+  },
+  {
+    "id": 12,
+    "title": "App Crash on iOS",
+    "description": "App crashes immediately on launch for iOS 16 users.",
+    "customer": "Isabella Thomas",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-01T17:30:00Z"
+  },
+  {
+    "id": 13,
+    "title": "Incorrect Billing Amount",
+    "description": "Customer billed twice for the same month.",
+    "customer": "James Jackson",
+    "priority": "High",
+    "status": "Resolved",
+    "createdAt": "2026-03-01T18:00:00Z"
+  },
+  {
+    "id": 14,
+    "title": "Language Settings Not Saving",
+    "description": "Changes in language preferences do not persist.",
+    "customer": "Mia White",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-03-01T18:30:00Z"
+  },
+  {
+    "id": 15,
+    "title": "Dashboard Loading Slowly",
+    "description": "Dashboard takes more than 10 seconds to load for some users.",
+    "customer": "Benjamin Harris",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2026-03-01T19:00:00Z"
+  }
+]
